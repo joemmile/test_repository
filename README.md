@@ -1,2 +1,2 @@
 # test_repository
-This is a repository for test
+This is my first README in GitHub
